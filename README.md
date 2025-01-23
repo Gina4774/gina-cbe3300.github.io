@@ -2,3 +2,8 @@
 
 *Team: Angelica, Chloe, Gina*
 
+## Features
+
+## Hardware & Equipment
+
+## Code
